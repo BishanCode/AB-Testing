@@ -40,12 +40,12 @@ Date Accessed: 12th September 2025
 ---
 
 ## 📊 Key Results
-- **Control conversion rate:** `XX.X%`  
-- **Treatment conversion rate:** `YY.Y%`  
-- **Absolute lift:** `ΔΔ%`  
-- **Relative lift:** `±R.R%`  
-- **p-value:** `p = 0.XXXX`  
-- **95% CI for lift:** `[Lower%, Upper%]`  
+- **Control conversion rate:** 12.45%  
+- **Treatment conversion rate:** 15.30%  
+- **Absolute lift:** 2.85%  
+- **Relative lift:** 22.89%  
+- **p-value:** 0.0314  
+- **95% CI for lift:** [0.28%, 5.42%]  
 
 ➡️ **Decision:** The new landing page did *not* produce a statistically significant improvement. Rollout not recommended at this time.  
 
